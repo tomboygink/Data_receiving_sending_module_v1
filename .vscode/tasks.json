@@ -1,0 +1,49 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build_server_receiver",
+            "problemMatcher":[],
+            "label": "npm: build_server_receiver",
+            "detail": "Компиляция сервера приема передачи и модуля отправки",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "run_server_receiver",
+            "problemMatcher":[],
+            "label": "npm: run_server_receiver",
+            "detail": "Запуск сервера приема передачи и модуля отправки",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "build_data_receiving_module",
+            "problemMatcher":[],
+            "label": "npm: build_data_receiving_module",
+            "detail": "Компиляция модуля приема данных",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "run_data_receiving_module",
+            "problemMatcher":[],
+            "label": "npm: run_data_receiving_module",
+            "detail": "Запуск модуля приема данных",
+            "group":{
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

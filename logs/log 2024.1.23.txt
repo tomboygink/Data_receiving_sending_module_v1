@@ -1,0 +1,160 @@
+12:16:42| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: OEdb5FkRHlHyDWgONElLxw==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+________________________________________________________________________________
+12:16:50| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: cpSmJU4FDXlnCgnIRF3UKg==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+12:16:51| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: Ir4ZquS/Ee5C89+9PPkYFQ==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:16:52| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: PhPMDoqSmsdzBEsU8vSF3Q==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:18| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: UD4WKDMMc7HMkb2l3Lv/Nw==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:20| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: fDVD1OBiunv5mplR3C55bw==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:21| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: 4bx/gkTudCSi4NocT70Qkg==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:30| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: FzkZNor1jIIH8iQzidb7oQ==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:32| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: ZYpYzAML1h5zvmXGcpk1lw==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:33| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: R3AwUO8BZMwqAIdkXM176A==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:33| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: pg/xXVM9SMJ2VkvvBEFEHg==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:38| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: VnKIEur1TwHqborzum8wkQ==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:38| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: HPaLfVCbEDkqOYoFrpPbow==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:24:39| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: O5ERrVy5emkKPWhNu8qlkg==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:27:26| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+________________________________________________________________________________
+12:28:23| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+________________________________________________________________________________
+12:28:40| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+________________________________________________________________________________
+12:29:26| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+________________________________________________________________________________
+________________________________________________________________________________
+12:30:0| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+12:30:29| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: 80Ii3phHmMJCJjVc+KMmug==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+12:31:29| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: iCSrzmAtMaFtOeECtihsXA==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
+________________________________________________________________________________
+12:42:41| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: NUts1aDlH3mSc9Ge6401+Q==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+12:42:51| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+________________________________________________________________________________
+________________________________________________________________________________
+12:44:35| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+12:45:9| ,Time,10:28:53/02:08:23,Number,1400,Sensors,25.12,25.44,25.62,25.12,25.37,25.37,25.44,25.44,25.44,25.37,25.37,25.56,25.56,25.06,25.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,AKB,3.37,
+________________________________________________________________________________
+12:47:35| GET / HTTP/1.1
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: UhnxmpsaXTXWSgFTRkS5rA==
+Connection: Upgrade
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+Host: 127.0.0.1:85
+________________________________________________________________________________
